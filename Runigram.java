@@ -199,7 +199,7 @@ public class Runigram {
 			double alpha = (n - i) / n;
 			Color[][] frame = blend(source, target, alpha);
 			display(frame);
-			StdDraw.pause(500);
+			StdDraw.pause(500);// pause
 		}
 	}
 
