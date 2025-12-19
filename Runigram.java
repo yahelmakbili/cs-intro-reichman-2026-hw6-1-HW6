@@ -4,6 +4,7 @@ import java.awt.Color;
 public class Runigram {
 
 	public static void main(String[] args) {
+	}
 
 	/**
 	 * Returns a 2D array of Color values, representing the image data
